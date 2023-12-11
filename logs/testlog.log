@@ -1,0 +1,276 @@
+2023-11-22 00:39:07,255 - com.tesCases.TestCased2 -INFO - username is enetered
+2023-11-22 00:39:09,478 - com.tesCases.TestCased2 -INFO - password is enetered
+2023-11-22 00:39:12,777 - com.tesCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-22 00:39:12,792 - com.tesCases.TestCased2 -INFO - Test case is faild
+2023-11-22 00:40:14,456 - com.tesCases.TestCased2 -INFO - username is enetered
+2023-11-22 00:40:16,613 - com.tesCases.TestCased2 -INFO - password is enetered
+2023-11-22 00:40:18,851 - com.tesCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-22 00:40:20,618 - com.tesCases.TestCased2 -INFO - Test case is pass
+2023-11-22 16:08:05,269 - com.tesCases.TestCased2 -INFO - username is enetered
+2023-11-22 16:08:07,902 - com.tesCases.TestCased2 -INFO - password is enetered
+2023-11-22 16:08:12,392 - com.tesCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-22 16:08:12,488 - com.tesCases.TestCased2 -INFO - Test case is pass
+2023-11-22 16:55:33,700 - com.tesCases.TestCased2 -INFO - username is enetered
+2023-11-22 16:55:36,503 - com.tesCases.TestCased2 -INFO - password is enetered
+2023-11-22 16:55:40,502 - com.tesCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-22 16:55:40,509 - com.tesCases.TestCased2 -INFO - Test case is pass
+2023-11-27 10:38:21,749 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 10:38:24,183 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 10:38:28,223 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 10:38:28,476 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 10:44:53,396 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 10:44:55,505 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 10:44:59,078 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 10:45:01,316 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 10:46:32,001 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 10:46:34,134 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 10:46:37,634 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 10:46:39,835 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 10:54:42,424 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 10:54:44,716 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 10:54:48,231 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 10:54:50,451 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 10:55:09,239 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 10:55:09,350 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 10:55:11,201 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 10:55:13,595 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 11:20:44,379 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 11:20:46,499 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 11:20:49,975 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 11:20:52,237 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 11:22:44,050 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 11:22:46,132 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 11:22:50,031 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 11:22:52,233 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 11:23:09,908 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 11:23:09,954 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 11:23:11,975 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 11:23:14,027 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 12:27:43,245 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 12:27:45,331 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 12:27:48,871 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 12:27:51,098 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 12:28:06,568 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 12:28:06,652 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 12:28:09,057 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 12:28:10,802 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 12:33:09,122 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 12:33:09,178 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 12:33:11,652 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 12:33:13,493 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 12:52:03,708 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 12:52:03,757 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 12:52:05,925 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 12:52:08,007 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:01:27,134 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 13:01:27,183 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 13:01:29,135 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 13:01:31,289 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:01:32,083 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-11-27 13:01:32,145 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-11-27 13:01:32,193 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-11-27 13:01:32,264 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-11-27 13:01:32,281 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-11-27 13:28:24,126 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 13:28:26,182 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 13:28:29,621 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 13:28:31,820 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 13:28:48,496 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 13:28:48,546 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 13:28:50,621 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 13:28:52,647 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:28:53,216 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-11-27 13:28:53,306 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-11-27 13:28:53,369 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-11-27 13:28:53,427 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-11-27 13:35:12,580 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 13:35:14,635 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 13:35:18,184 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 13:35:20,451 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 13:35:42,920 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 13:35:42,964 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 13:35:44,987 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 13:35:47,174 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:35:48,154 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-11-27 13:35:48,220 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-11-27 13:35:48,277 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-11-27 13:35:48,334 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-11-27 13:42:11,566 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 13:42:13,627 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 13:42:16,990 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 13:42:19,197 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 13:42:39,969 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 13:42:40,012 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 13:42:41,984 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 13:42:44,008 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:42:44,602 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-11-27 13:42:44,699 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-11-27 13:42:44,755 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-11-27 13:42:44,826 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-11-27 13:53:04,598 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 13:53:06,654 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 13:53:10,240 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 13:53:12,444 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 13:53:33,319 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 13:53:33,381 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 13:53:35,334 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 13:53:37,301 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:53:37,890 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-11-27 13:53:37,943 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-11-27 13:53:38,016 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-11-27 13:53:38,072 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-11-27 13:57:49,904 - com.testCases.TestCased2 -INFO - username is enetered
+2023-11-27 13:57:51,951 - com.testCases.TestCased2 -INFO - password is enetered
+2023-11-27 13:57:55,499 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-11-27 13:57:57,769 - com.testCases.TestCased2 -INFO - Screenshot is taken
+2023-11-27 13:58:21,513 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-11-27 13:58:21,550 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-11-27 13:58:26,565 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-11-27 13:58:27,828 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-11-27 13:58:28,373 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-11-27 13:58:28,430 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-11-27 13:58:28,488 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-11-27 13:58:28,535 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-11-27 13:58:30,812 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-11-27 13:58:30,816 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-11-28 21:24:30,535 - com.testCases.DataDrivenTestCase -INFO - Screenshot is taken
+2023-11-28 21:28:36,926 - com.testCases.DataDrivenTestCase -INFO - Screenshot is taken
+2023-12-04 16:38:11,649 - com.testCases.DataDrivenTestCase -INFO - Screenshot is taken
+2023-12-04 17:03:13,755 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-04 23:55:50,844 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 00:11:49,732 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 09:52:31,755 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 09:59:32,548 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 10:27:30,136 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-05 10:27:32,290 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-05 10:27:36,064 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 11:19:34,878 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-05 11:19:37,122 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-05 11:19:40,375 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 11:20:59,196 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-05 11:21:01,335 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-05 11:21:03,462 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-05 11:21:04,925 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-05 11:21:17,655 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-05 11:21:17,861 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-05 11:21:19,518 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-05 11:21:22,212 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-05 11:21:22,923 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-05 11:21:23,092 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-05 11:21:23,261 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-05 11:21:23,463 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-05 11:21:25,632 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-05 11:21:25,648 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-05 11:23:58,152 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-05 11:24:00,353 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-05 11:24:03,739 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 11:25:22,920 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-05 11:25:25,079 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-05 11:25:27,218 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-05 11:25:28,575 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-05 11:25:40,054 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-05 11:25:40,255 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-05 11:25:41,942 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-05 11:25:43,984 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-05 11:25:44,725 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-05 11:25:44,898 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-05 11:25:45,064 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-05 11:25:45,210 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-05 11:25:47,346 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-05 11:25:47,361 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-05 21:46:39,551 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-05 21:46:41,764 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-05 21:46:45,314 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 21:48:06,874 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-05 21:48:09,162 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-05 21:48:13,253 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-05 21:48:13,270 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-05 21:48:32,075 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-05 21:48:32,345 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-05 21:48:32,468 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-05 21:48:36,907 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-05 21:48:37,833 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-05 21:48:37,990 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-05 21:48:38,226 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-05 21:48:38,460 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-05 21:48:40,587 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-05 21:48:40,609 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-05 22:10:34,393 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-05 22:10:36,567 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-05 22:10:40,169 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 22:12:08,971 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-05 22:12:11,135 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-05 22:12:15,183 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-05 22:12:15,199 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-05 22:12:36,497 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-05 22:12:36,842 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-05 22:12:38,608 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-05 22:12:41,175 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-05 22:12:41,966 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-05 22:12:42,157 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-05 22:12:42,306 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-05 22:12:42,518 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-05 22:12:44,630 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-05 22:12:44,646 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-05 22:30:29,675 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-05 22:30:31,841 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-05 22:30:35,395 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-05 22:32:00,423 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-05 22:32:02,628 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-05 22:32:06,268 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-05 22:32:06,280 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-05 22:32:30,269 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-05 22:32:30,413 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-05 22:32:31,957 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-05 22:32:36,571 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-05 22:32:37,681 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-05 22:32:37,839 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-05 22:32:38,016 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-05 22:32:38,170 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-05 22:32:40,336 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-05 22:32:40,355 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-05 22:37:58,742 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-05 22:38:01,394 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-05 22:38:05,063 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-05 22:38:05,079 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-05 22:38:22,909 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-05 22:38:23,267 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-05 22:38:24,933 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-05 22:38:27,399 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-05 22:38:28,123 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-05 22:38:28,272 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-05 22:38:28,410 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-05 22:38:28,549 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-05 22:38:30,667 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-05 22:38:30,684 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-07 15:46:18,338 - com.testCases.DataDrivenTestCase -INFO - username is enetered
+2023-12-07 15:46:20,897 - com.testCases.DataDrivenTestCase -INFO - password is enetered
+2023-12-07 15:46:24,971 - com.testCases.DataDrivenTestCase -INFO - Test case is pass
+2023-12-07 15:47:55,686 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-07 15:47:57,843 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-07 15:47:59,951 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-07 15:48:01,589 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-07 15:48:15,810 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-07 15:48:16,105 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-07 15:48:18,221 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-07 15:48:20,657 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-07 15:48:21,648 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-07 15:48:21,872 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-07 15:48:22,122 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-07 15:48:22,265 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-07 15:48:24,393 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-07 15:48:24,416 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
+2023-12-07 16:05:52,919 - com.testCases.TestCased2 -INFO - username is enetered
+2023-12-07 16:05:55,481 - com.testCases.TestCased2 -INFO - password is enetered
+2023-12-07 16:05:57,861 - com.testCases.TestCased2 -INFO - user is succefully logging inito the account
+2023-12-07 16:05:59,616 - com.testCases.TestCased2 -INFO - Test case is pass
+2023-12-07 16:06:25,211 - com.testCases.PersonalDetails_TC -INFO - Username is entered
+2023-12-07 16:06:25,662 - com.testCases.PersonalDetails_TC -INFO - Password is entered
+2023-12-07 16:06:25,787 - com.testCases.PersonalDetails_TC -INFO - Login button is clicked
+2023-12-07 16:06:32,706 - com.testCases.PersonalDetails_TC -INFO - Myinfo buttun is clicked
+2023-12-07 16:06:33,480 - com.testCases.PersonalDetails_TC -INFO - First name is entered
+2023-12-07 16:06:33,739 - com.testCases.PersonalDetails_TC -INFO - Middlename is entered
+2023-12-07 16:06:33,929 - com.testCases.PersonalDetails_TC -INFO - Lastname is entered
+2023-12-07 16:06:34,114 - com.testCases.PersonalDetails_TC -INFO - Nickname is enterd
+2023-12-07 16:06:36,245 - com.testCases.PersonalDetails_TC -INFO - Save button clicked
+2023-12-07 16:06:36,261 - com.testCases.PersonalDetails_TC -INFO - Test case is pass
